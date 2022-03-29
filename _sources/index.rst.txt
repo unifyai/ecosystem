@@ -188,11 +188,9 @@ Citation
     }
 
 
-Documentation Tree
-------------------
-
 
 .. toctree::
+   :hidden:
    :maxdepth: -1
    :caption: Docs
 
