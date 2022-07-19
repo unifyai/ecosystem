@@ -42,8 +42,7 @@
 Coming Soon!
 --------
 
-**We are currently working with third-party library creators to give them multi-framework support with only a few lines
-of code changed; no need to convert everything to Ivy! More information coming soon!**
+**We are currently working with a third-party library creators to provide multi-framework support with just a few lines of code changes. You don't have to switch everything to ivy! Details will follow soon!**
 
 **Ivy Libraries**
 
